@@ -24,4 +24,6 @@ the relevant
 for details.
 
 
+You can find the solutionwritten by me wcat.c (wcat exe)
+
 
